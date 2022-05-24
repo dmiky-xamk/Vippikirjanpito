@@ -1,0 +1,6 @@
+.debt-table th,
+.debt-table td {
+  padding: 0.8rem 0.4rem;
+  text-align: left;
+  border: 1px solid #777;
+}

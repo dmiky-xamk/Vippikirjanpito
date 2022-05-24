@@ -1,0 +1,9 @@
+.debt-table {
+  border-collapse: collapse;
+  width: 100%;
+  border: 1px solid #777;
+}
+
+.debts-empty td {
+  border: none;
+}
